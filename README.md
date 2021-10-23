@@ -1,13 +1,17 @@
-### 😅
-
-About:
-
+### info
 * 🏫 edu: ShenZhen University, CSSE
 * 📕 blog: https://blog.csdn.net/weixin_44176696
 * 🔍 interest: computer graphic & rendering
 
+### overview 
 [![AKGWSB's github stats](https://github-readme-stats.vercel.app/api?username=AKGWSB)](https://github.com/AKGWSB/github-readme-stats)
 
+### 开摆
+💧💧💧💧💧💧💧
+💧💧💧💧💧💧💧
+💧💧💧😅💧💧💧
+💧💧💧💧💧💧💧
+💧💧💧💧💧💧💧
 
 <!--
 **AKGWSB/AKGWSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
