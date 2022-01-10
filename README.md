@@ -69,7 +69,7 @@ Some blogs written when my college years, I personally highly recommend u to hav
 
 # Music Recommendation
 
-我贼喜欢这歌，[Desert Years,  Yana](https://music.163.com/#/song?id=28178007) ，冷门底边车万同人曲，这玩意我至今没听出原曲是啥<font color="red">（其实是《デザイアドライブ》，是由上海爱丽丝幻乐团制作的东方 project 系列游戏《东方神灵庙》中第四关的 bgm）</font>但是并不妨碍这玩意的旋律像若子的 24 K 纯冰一样灌进脑子里面。我至今不知道这玩意怎么在现代设备高达 24842 KHZ 的声卡调出听起来像上世纪 90 年代 FC 机一样的 8 bit 一般的伴奏（其实仔细一听挺顺滑的），就像把耳机插在交换机的 trunk port 上（❓）。这 b 歌的旋律荒诞的就像荒诞的我在荒诞的 VR 三体世界中荒诞的奔跑，三个无序的太阳投下三个南辕北辙的影子。歌名 desert Years，正如我过着 desert 的人生，却追逐 (desire) 着美好的 Years 一样... 不过 Desert Year 读出来就是 desire，这一点歌词也是对上的，大概作者的电波也是这个逻辑？
+我贼喜欢这歌，[Desert Years,  Yana](https://music.163.com/#/song?id=28178007) ，冷门底边车万同人曲，这玩意我至今没听出原曲是啥<font color="red">（其实是《デザイアドライブ》，是由上海爱丽丝幻乐团制作的东方 project 系列游戏《东方神灵庙》中第四关的 bgm）</font>但是并不妨碍这玩意的旋律像 24 K 纯冰一样灌进脑子里面。我至今不知道这玩意怎么在现代声卡设备高达 24842 KHZ 的声卡调出听起来像上世纪 80 年代 FC 机一样的 8 bit 一般的伴奏（其实仔细一听挺顺滑的）就像把耳机插在交换机的 trunk port 上（❓）。这 b 歌的旋律荒诞的就像荒诞的我在荒诞的 VR 三体世界中荒诞的奔跑，三个无序的太阳投下三个南辕北辙的影子。歌名 desert Years，正如我过着 desert 的人生，却追逐 (desire) 着美好的 Years 一样... 不过 Desert Year 读出来就是 desire，这一点歌词也是对上的，大概作者的电波也是这个逻辑？
 
 <div align="center"><img src="README.assets/109951166029899283.jpg" width="256"></div>
 
@@ -77,7 +77,7 @@ Some blogs written when my college years, I personally highly recommend u to hav
 
 # About name
 
-AKG is for Akagi Senpai in Azure Lane, while WSB is for ███
+AKG is for Akagi Senpai in Azur Lane, while WSB is for ███
 
 <div align="center"><img src="README.assets/image-20211229160433860.png" width="400"></div>
 
