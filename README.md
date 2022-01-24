@@ -9,8 +9,6 @@
 
 [![AKGWSB's github stats](https://github-readme-stats.vercel.app/api?username=AKGWSB)](https://github.com/AKGWSB/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKGWSB&layout=compact)](https://github.com/AKGWSB/)
-
 
 
 # Projects
