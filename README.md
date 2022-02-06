@@ -1,6 +1,7 @@
 # Info
 * 🏫 Edu: ShenZhen University, CSSE
-* 📕 Blog: https://blog.csdn.net/weixin_44176696
+* 📕 Blog (new): https://www.zhihu.com/people/long-ruo-li-21/posts
+* 📕 Blog (old): https://blog.csdn.net/weixin_44176696
 * 🔍 Interest: computer graphic & rendering
 
 
@@ -13,9 +14,17 @@
 
 # Projects
 
+## ToyRenderPipeline
+
+ToyRenderPipeline is a custom render pipeline, implement with Unity SRP (Scriptable Render Pipeline), including modern rendering features such as Deferred Pipeline, PBR, IBL, Cascaded Shadow, Cluster Based Lighting, [learn more...](https://github.com/AKGWSB/ToyRenderPipeline) 
+
+![image-20220206114014025](README.assets/image-20220206114014025.png)
+
+
+
 ## EzRT
 
-**Easy Raytracing Tutorial (EzRT)** is a lite code, simple tutorial for beginners to learn raytracing, with OpenGL and C++, [learn more...](https://github.com/AKGWSB/EzRT) 
+**Easy Ray Tracing (EzRT)** is a lite code, progressive ray tracing renderer implement with OpenGL and C++, [learn more...](https://github.com/AKGWSB/EzRT) 
 
 <div align="center"><img src="README.assets/image-20211023163925119.png" width="300"></div>
 
@@ -23,7 +32,7 @@
 
 ## HMS
 
-**Hello Minecraft Shaders (HMS)** is a simple tutorial about how to programming shaders for Minecraft, based on [Optifine mod](https://github.com/sp614x/optifine) environment, [learn more...](https://github.com/AKGWSB/Hello-Minecraft-Shaders) 
+**Hello Minecraft Shaders (HMS)** is a simple tutorial about how to programming shaders for Minecraft, based on Optifine mod environment, [learn more...](https://github.com/AKGWSB/Hello-Minecraft-Shaders) 
 
 <div align="center"><img src="README.assets/image-20211229145250381.png" width="550"></div>
 
@@ -31,7 +40,7 @@
 
 # Articles
 
-Some blogs written when my college years, I personally highly recommend u to have a read...
+Some blogs ...
 
 ## Technical Artist
 
@@ -75,19 +84,9 @@ Some blogs written when my college years, I personally highly recommend u to hav
 
 # About name
 
-AKG is for Akagi Senpai in Azur Lane, while WSB is for ███
+AKG representing Akagi Senpai in Azur Lane, while WSB is for ███
 
 <div align="center"><img src="README.assets/image-20211229160433860.png" width="400"></div>
-
-
-
-# 开摆！
-
-编不下去了，开摆！
-
-<div align="center"><img src="README.assets/image-20211229153133235.png" width="300"></div>
-
-
 
 
 
