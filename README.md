@@ -42,7 +42,19 @@ ToyRenderPipeline is a custom render pipeline, implement with Unity SRP (Scripta
 
 Some blogs ...
 
-## Technical Artist
+## Unity Graphics
+
+[Unity SRP 实战（四）Cluster Based Lighting](https://zhuanlan.zhihu.com/p/464099000) 
+
+![image-20220206115256101](README.assets/image-20220206115256101.png)
+
+[Unity SRP 实战（三）PCSS 软阴影与性能优化](https://zhuanlan.zhihu.com/p/462371147)
+
+![image-20220206114859952](README.assets/image-20220206114859952.png)
+
+
+
+## Technical Artist (TA)
 
 [浅谈《原神》中的图形渲染技术](https://blog.csdn.net/weixin_44176696/article/details/114176844?spm=1001.2014.3001.5501) 
 
