@@ -1,8 +1,8 @@
 # Info
-* 🏫 Edu: ShenZhen University, CSSE
-* 📕 Blog (new): https://www.zhihu.com/people/long-ruo-li-21/posts
-* 📕 Blog (old): https://blog.csdn.net/weixin_44176696
-* 🔍 Interest: computer graphic & rendering
+* 🏫 **Edu**: ShenZhen University, Computer Science
+* 📕 **Blog (new)**: https://www.zhihu.com/people/long-ruo-li-21/posts
+* 📕 **Blog (old)**: https://blog.csdn.net/weixin_44176696
+* 🔍 **Interest**: computer graphic & rendering
 
 
 
