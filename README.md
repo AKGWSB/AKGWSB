@@ -44,13 +44,13 @@ Some blogs ...
 
 ## Unity Graphics
 
+[Unity SRP 实战（五）基于 GPU 的剔除](https://zhuanlan.zhihu.com/p/484230476)
+
+<div align="center"><img src="README.assets/image-20220420012324691.png" width="720"></div>
+
 [Unity SRP 实战（四）Cluster Based Lighting](https://zhuanlan.zhihu.com/p/464099000) 
 
-![image-20220206115256101](README.assets/image-20220206115256101.png)
-
-[Unity SRP 实战（三）PCSS 软阴影与性能优化](https://zhuanlan.zhihu.com/p/462371147)
-
-![image-20220206114859952](README.assets/image-20220206114859952.png)
+<div align="center"><img src="README.assets/image-20220206115256101.png" width="720"></div>
 
 
 
@@ -88,9 +88,25 @@ Some blogs ...
 
 # Music Recommendation
 
+<!--
+
 我贼喜欢这歌，[Desert Years,  Yana](https://music.163.com/#/song?id=28178007) ，冷门底边车万同人曲，这玩意我至今没听出原曲是啥<font color="red">（其实是《デザイアドライブ》，是由上海爱丽丝幻乐团制作的东方 project 系列游戏《东方神灵庙》中第四关的 bgm）</font>但是并不妨碍这玩意的旋律像 24 K 纯冰一样灌进脑子里面。我至今不知道这玩意怎么在现代声卡设备高达 24842 KHZ 的声卡调出听起来像上世纪 80 年代 FC 机一样的 8 bit 一般的伴奏（其实仔细一听挺顺滑的）就像把耳机插在交换机的 trunk port 上（❓）。这 b 歌的旋律荒诞的就像荒诞的我在荒诞的 VR 三体世界中荒诞的奔跑，三个无序的太阳投下三个南辕北辙的影子。歌名 desert Years，正如我过着 desert 的人生，却追逐 (desire) 着美好的 Years 一样... 不过 Desert Year 读出来就是 desire，这一点歌词也是对上的，大概作者的电波也是这个逻辑？
 
 <div align="center"><img src="README.assets/109951166029899283.jpg" width="256"></div>
+
+-->
+
+[Fall in the Dark, Yana](https://music.163.com/#/song?id=26107975) 
+
+one, two, three time to fall in the dark~ 
+
+そのまえにもう一度でいい この身体抱きしみてよ ~
+
+だけどね素直に言えない ~
+
+やっぱりアナタが誰よりも好きだなんてゼッタイ···
+
+<div align="center"><img src="README.assets/109951166028434332.jpg" width="256"></div>
 
 
 
@@ -98,9 +114,9 @@ Some blogs ...
 
 AKG representing Akagi Senpai in Azur Lane, while WSB is for ███
 
-<div align="center"><img src="README.assets/image-20211229160433860.png" width="400"></div>
+<div align="center"><img src="README.assets/image-20220420014233417.png" width="400"></div>
 
-
+[[image link]](https://www.pixiv.net/artworks/91072152)
 
 
 
