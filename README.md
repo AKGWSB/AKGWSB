@@ -14,6 +14,18 @@
 
 # Projects
 
+## PRTGI
+
+Precomputed Radiance Transfer Global Illuminating (PRTGI) with spherical harmonic (SH) probe volume, using Unity URP, [learn more...](https://github.com/AKGWSB/CasualPRT) 
+
+![image-20230102223336251](README.assets/image-20230102223336251.png)
+
+## Atmosphere Scattering
+
+Real Time Atmosphere Scattering Rendering in Unity URP, with single and multi scattering, same as UE4 method, [learn more...](https://github.com/AKGWSB/RealTimeAtmosphere) 
+
+![image-20230102223705854](README.assets/image-20230102223705854.png)
+
 ## ToyRenderPipeline
 
 ToyRenderPipeline is a custom render pipeline, implement with Unity SRP (Scriptable Render Pipeline), including modern rendering features such as Deferred Pipeline, PBR, IBL, Cascaded Shadow, Cluster Based Lighting, [learn more...](https://github.com/AKGWSB/ToyRenderPipeline) 
@@ -43,6 +55,10 @@ ToyRenderPipeline is a custom render pipeline, implement with Unity SRP (Scripta
 Some blogs ...
 
 ## Unity Graphics
+
+[高质量泛光（bloom）从理论到实战](https://zhuanlan.zhihu.com/p/525500877) 
+
+![image-20230102224141936](README.assets/image-20230102224141936.png)
 
 [Unity SRP 实战（五）基于 GPU 的剔除](https://zhuanlan.zhihu.com/p/484230476)
 
